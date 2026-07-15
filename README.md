@@ -37,3 +37,7 @@ Sample Superstore Dataset
 
 - Ecommerce Sales Dashboard.pbix
 - SampleSuperstore.xlsx
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
