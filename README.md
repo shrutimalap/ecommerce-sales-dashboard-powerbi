@@ -19,7 +19,6 @@ This project presents an interactive Ecommerce Sales Dashboard built in Power BI
 - Microsoft Excel
 - Data Cleaning
 - Data Modeling
-- DAX
 - Data Visualization
 
 ## Dataset
